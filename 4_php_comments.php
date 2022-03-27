@@ -7,4 +7,5 @@
 /* Now this is an
 Multi Line Comment
 Which is available in php
+- Nesting of Comments Not Allowed
 */
