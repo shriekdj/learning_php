@@ -1,7 +1,7 @@
 <html><body>
 
 <!-- Now this -->
-<?php echo "Hello World" ?>
+<?php echo "Hello World"; ?>
 
 <!-- and This are same -->
 <?= "Hello World" ?>
